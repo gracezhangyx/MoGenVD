@@ -8,7 +8,7 @@ MoGenVD is designed to support the evaluation and analysis of generated videos f
 
 The complete MoGenVD dataset can be downloaded from the following links:
 
-- Google Drive: [Download link to be updated soon]
+- Google Drive: [Download link](https://drive.google.com/file/d/1sySOn7Ywz_V0LOh0J7dEK-j8_Vj6CwyF/view?usp=sharing)
 - Baidu Netdisk: [Download link](https://pan.baidu.com/s/1AwKrwLunVjYLUns-kEX_Nw?pwd=e9t3)  (Extraction code: `e9t3`)
 
 The dataset package includes generated videos, MOS annotations, prompt information, and dataset description files.
