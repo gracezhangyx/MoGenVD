@@ -4,7 +4,14 @@ This repository provides the official release page for **MoGenVD**, a motion-cen
 
 MoGenVD is designed to support the evaluation and analysis of generated videos from a motion-centric perspective. It emphasizes motion-related quality characteristics through motion-centered prompt design and fine-grained subjective quality annotation.
 
-> **Note:** The dataset is currently being organized and uploaded. Once finished, the complete dataset, subjective annotations, and related metadata will be released here.
+## Dataset Download
+
+The complete MoGenVD dataset can be downloaded from the following links:
+
+- Google Drive: [Download link to be updated soon]
+- Baidu Netdisk: [Download link](https://pan.baidu.com/s/1AwKrwLunVjYLUns-kEX_Nw?pwd=e9t3)  (Extraction code: `e9t3`)
+
+The dataset package includes generated videos, MOS annotations, prompt information, and dataset description files.
 
 ## Overview
 
