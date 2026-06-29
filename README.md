@@ -65,39 +65,15 @@ Each generated video is evaluated using four subjective quality dimensions:
 | Motion Subject Authenticity | Structural authenticity of the moving subject, including plausible proportions, limb or organ consistency, spatial integrity, and the absence of unrealistic deformation. |
 | Semantic Consistency | Alignment between the generated video and the input text prompt, including subject identity, action, scene, and camera motion when specified. |
 
-## Dataset Structure
-
-The final dataset release will include the following components:
-
-```text
-MoGenVD/
-├── prompts/
-│   └── prompts.csv
-├── videos/
-│   ├── AnimateDiff/
-│   ├── VideoCrafter2/
-│   ├── LaVie/
-│   ├── CogVideoX-5b/
-│   ├── Wan-AI-1.3b/
-│   └── MAGI-1/
-├── annotations/
-│   └── mos_scores.csv
-├── metadata/
-│   └── video_metadata.csv
-└── README.md
-```
-
-The exact folder structure may be adjusted before the full release.
 
 ## Current Release Status
 
 The repository is currently under preparation.
 
 - [x] Dataset description
-- [ ] Text prompts
-- [ ] Generated videos
-- [ ] MOS annotations
-- [ ] Metadata files
+- [x] Text prompts
+- [x] Generated videos
+- [x] MOS annotations
 
 ## Citation
 
